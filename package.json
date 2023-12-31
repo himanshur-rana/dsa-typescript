@@ -1,0 +1,23 @@
+{
+  "name": "dsa-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc && node dist/src/client.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshur-rana/dsa-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanshur-rana/dsa-typescript/issues"
+  },
+  "homepage": "https://github.com/himanshur-rana/dsa-typescript#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
