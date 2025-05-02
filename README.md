@@ -1,1 +1,1 @@
-# dsa-in-typescript
+# dsa-typescript
